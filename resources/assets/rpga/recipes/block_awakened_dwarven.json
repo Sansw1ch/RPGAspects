@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "rpga:awakened_dwarven"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rpga:block_awakened_dwarven",
+        "count": 1
+    }
+}

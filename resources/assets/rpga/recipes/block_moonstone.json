@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "rpga:moonstone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rpga:block_moonstone",
+        "count": 1
+    }
+}

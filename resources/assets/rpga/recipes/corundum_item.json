@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+    {
+      "item": "rpga:block_corundum"
+    }
+    ],
+ 
+    "result":
+    {
+        "item": "rpga:corundum",
+        "count": 9
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "rpga:mithril"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rpga:block_mithril",
+        "count": 1
+    }
+}

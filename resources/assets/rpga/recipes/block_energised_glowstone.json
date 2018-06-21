@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+    {
+      "item": "rpga:energised_glowstone"
+    },
+    {
+      "item": "rpga:energised_glowstone"
+    },
+    {
+      "item": "rpga:energised_glowstone"
+    },
+    {
+      "item": "rpga:energised_glowstone"
+    }
+    ],
+ 
+    "result":
+    {
+        "item": "rpga:block_energised_glowstone",
+        "count": 1
+    }
+}

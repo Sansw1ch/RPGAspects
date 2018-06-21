@@ -1,0 +1,8 @@
+{
+    "defaults":{
+        "uvlock": true
+    },
+    "variants": {
+        "normal":{"model":"rpga:skyrim/ore/stalhrim_ice"}
+    }
+}

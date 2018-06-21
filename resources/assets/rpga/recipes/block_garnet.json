@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "rpga:garnet"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rpga:block_garnet",
+        "count": 1
+    }
+}

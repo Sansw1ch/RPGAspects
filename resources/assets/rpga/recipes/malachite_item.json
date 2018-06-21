@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+    {
+      "item": "rpga:block_malachite"
+    }
+    ],
+ 
+    "result":
+    {
+        "item": "rpga:malachite",
+        "count": 9
+    }
+}

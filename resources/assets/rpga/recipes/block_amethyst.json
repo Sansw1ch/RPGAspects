@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "rpga:amethyst"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rpga:block_amethyst",
+        "count": 1
+    }
+}

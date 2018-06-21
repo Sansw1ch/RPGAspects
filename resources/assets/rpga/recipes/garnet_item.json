@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+    {
+      "item": "rpga:block_garnet"
+    }
+    ],
+ 
+    "result":
+    {
+        "item": "rpga:garnet",
+        "count": 9
+    }
+}

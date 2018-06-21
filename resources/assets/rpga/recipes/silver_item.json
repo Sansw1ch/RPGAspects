@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+    {
+      "item": "rpga:block_silver"
+    }
+    ],
+ 
+    "result":
+    {
+        "item": "rpga:silver",
+        "count": 9
+    }
+}

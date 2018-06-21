@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "rpga:draconic"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rpga:block_draconic",
+        "count": 1
+    }
+}

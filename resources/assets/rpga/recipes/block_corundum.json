@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "AAA",
+        "AAA",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "rpga:corundum"
+        }
+    },
+    
+    "result":
+    {
+        "item": "rpga:block_corundum",
+        "count": 1
+    }
+}
