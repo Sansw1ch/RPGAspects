@@ -1,11 +1,11 @@
 package com.sanswich.rpgaspects.system;
 
-import com.sanswich.rpgaspects.system.handler.RegistryHandler;
 import com.sanswich.rpgaspects.system.proxy.CommonProxy;
 import com.sanswich.rpgaspects.system.tabs.RPG_blocks;
 import com.sanswich.rpgaspects.system.tabs.RPG_items;
 import com.sanswich.rpgaspects.system.tabs.RPG_tools;
 import com.sanswich.rpgaspects.system.util.Reference;
+import com.sanswich.rpgaspects.system.util.RegistryHandler;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraftforge.fml.common.Mod;
